@@ -1,0 +1,35 @@
+
+#exampleFormControlInput1{
+    border-bottom: 1px solid rgb(176, 171, 171);
+    width: 250px;
+
+}
+#s1{
+    border: 1px solid rgb(176, 171, 171);
+    width: 250px;
+}
+#s1 input{
+    background: transparent;
+    border: none;
+    outline: none;
+    margin: 0px;
+}
+#s1 textarea{
+    background: transparent;
+    border: none;
+    outline: none;
+    margin: 0px;
+}
+#orange{
+    border-bottom: 8px solid orange;
+    width: 250px;
+}
+.forms
+{
+    /* background-image: url("https://img.freepik.com/free-photo/pots-vegetables-harvest_23-2147694057.jpg"); */
+    background-image: url("https://bolt.eu/static/34a06cc4c628b32af6ce934674c15dd2/ac0ad/desktop.png");
+    background-image: url("https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiaWhoLWhlYWx0aGNhcmUtYmVyaGFkXC9hY2NvdW50c1wvYzNcLzQwMDA2MjRcL3Byb2plY3RzXC8yMDlcL2Fzc2V0c1wvYmFcLzM4MzM3XC9mODgwN2EyMDZkNWU3ZTJhNzI0YzQ4Y2ExOGJhYzVkNC0xNjU4MzAxMDMwLmpwZyJ9:ihh-healthcare-berhad:pFQitglFTrtTW674K-t4V1zbbJn-pEvAIDwnSEb2MHs?format=webp");
+
+    background-repeat: no-repeat;
+    background-size:cover ;
+}

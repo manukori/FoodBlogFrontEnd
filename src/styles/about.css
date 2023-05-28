@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+
+}
+.blocks{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.c1{
+    padding-top: 50px;
+
+    margin: 1px 10px 20px 50px;
+    /* border: 1px solid whitesmoke; */
+    background-color: rgb(228, 226, 226);
+    height: 200px; width: 300px;
+}
